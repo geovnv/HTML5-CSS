@@ -1,0 +1,1 @@
+Estes são meus primeiros exercícios em HTML e CSS, realizados por meio do cursoemvideo com o professor Gustavo Guanabara.
