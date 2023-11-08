@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Colors</title>
+</head>
+<body>
+	<!-- Representação por nomes -->
+	<h2 style="background-color: blue; color: white">Cores em CSS</h2>
+	<div>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, aperiam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, recusandae?</p>
+	</div>
+	
+	<!-- Representação por códigos hexadecimais -->
+	<!-- HEXADECIMAL = 1 2 3 4 5 6 7 8 9 A B C D E F -->
+	<h2 style="background-color: #0000ff; color: #ffffff">Cores em CSS</h2>
+	<div>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, aperiam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, recusandae?2</p>
+	</div>
+	
+	<!-- Representação por código RGB -->
+	<h2 style="background-color: rgb(0, 0, 255); color: rgb(255, 255, 255)">Cores em CSS</h2>
+	<div>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, aperiam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, recusandae?</p>
+	</div>
+	
+	<!-- Representação por HSL (Hue,Saturation, Luminosity) -->
+	<h2 style="background-color: hsl(240, 100%, 50%); color: hsl(0, 0%, 100%)">Cores em CSS</h2>
+	<div>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, aperiam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, recusandae?lorem</p>
+	</div>
+</body>
+</html>
